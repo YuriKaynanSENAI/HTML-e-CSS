@@ -7,7 +7,8 @@
 }
 .menu {
   width: 100%;
-  padding: 9px;
+  height: 170px;
+  padding: 20px;
   background-color: rgba(0, 0, 0, 0.6);
 }
 .menu nav a img {
@@ -38,6 +39,10 @@
 .MenuH {
   flex-direction: row;
 }
+
+.main {
+  padding: 10px;
+}
 body {
   background-color: rgb(217, 6, 254) 255;
 }
@@ -64,14 +69,5 @@ main {
   background-color: white;
 }
 h3 {
-<<<<<<< HEAD
-  color: blue;
-}
-
-.marketplace ul li {
-  display: flex;
-  color: black;
-=======
   color: yellow;
->>>>>>> 116aba4083db71b4638adb7b09a2df53c5404f31
 }
