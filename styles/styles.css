@@ -39,8 +39,11 @@
 .MenuH {
   flex-direction: row;
 }
-
 .main {
+  height: auto;
+  padding: 10px;
+}
+.maincard {
   width: 100%;
   padding: 40px;
 
