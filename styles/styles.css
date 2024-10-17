@@ -42,6 +42,8 @@
 
 .main {
   padding: 10px;
+  height: auto;
+  margin: 20px;
 }
 body {
   background-color: rgb(217, 6, 254) 255;
