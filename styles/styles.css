@@ -8,7 +8,7 @@
 .menu {
   width: 100%;
   padding: 9px;
-  background-color: rgb(116, 113, 116);
+  background-color: rgba(0, 0, 0, 0.6);
 }
 .menu nav a img {
   width: 259px;
@@ -26,7 +26,7 @@
   color: rgb(255, 255, 255);
 }
 .footer {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.6);
   width: 100%;
   height: 150px;
 
@@ -52,7 +52,7 @@ header nav ul li a {
 }
 
 section ul {
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 footer ul li a {
