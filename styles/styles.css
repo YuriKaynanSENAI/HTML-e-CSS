@@ -40,7 +40,7 @@
   flex-direction: row;
 }
 
-.main{
+.main {
   padding: 10px;
 }
 body {
@@ -69,14 +69,5 @@ main {
   background-color: white;
 }
 h3 {
-<<<<<<< HEAD
-  color: blue;
-}
-
-.marketplace ul li {
-  display: flex;
-  color: black;
-=======
   color: yellow;
->>>>>>> 116aba4083db71b4638adb7b09a2df53c5404f31
 }
