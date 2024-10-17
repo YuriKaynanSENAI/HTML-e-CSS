@@ -11,8 +11,8 @@
   background-color: rgb(116, 113, 116);
 }
 .menu nav a img {
-  width: 300px;
-  height: 300px;
+  width: 259px;
+  height: auto;
 }
 .menu nav {
   width: 100%;
@@ -34,6 +34,9 @@
   display: flex;
   justify-content: space-around;
   align-items: flex-start;
+}
+.MenuH {
+  flex-direction: row;
 }
 body {
   background-color: rgb(217, 6, 254) 255;
@@ -61,5 +64,5 @@ main {
   background-color: white;
 }
 h3 {
-  color: rgb(0, 27, 137);
+  color: blue;
 }
