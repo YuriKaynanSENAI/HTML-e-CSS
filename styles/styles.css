@@ -7,7 +7,8 @@
 }
 .menu {
   width: 100%;
-  padding: 9px;
+  height: 170px;
+  padding: 20px;
   background-color: rgba(0, 0, 0, 0.6);
 }
 .menu nav a img {
@@ -37,6 +38,10 @@
 }
 .MenuH {
   flex-direction: row;
+}
+
+.main{
+  padding: 10px;
 }
 body {
   background-color: rgb(217, 6, 254) 255;
