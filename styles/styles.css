@@ -36,6 +36,9 @@
   justify-content: space-around;
   align-items: flex-start;
 }
+.mainmarket {
+  padding: 10px;
+}
 .MenuH {
   flex-direction: row;
 }
